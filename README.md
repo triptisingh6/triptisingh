@@ -1,6 +1,6 @@
 Hi, I'm Tripti Singh
 
-B.Tech Computer Science student with research interest in Machine Learning and Deep Learning.
+B.Tech Computer Science student focused on Machine Learning research, time-series forecasting, and computer vision.
 
 Research Experience
 - Summer Research Intern at CSIR-CBRI (IIT Roorkee Campus)
@@ -20,7 +20,7 @@ Livestock Breed Classification (SIH Internal – 3rd Rank)
 - Designed and trained CNN model using TensorFlow
 - Achieved ~92% classification accuracy
 
-Technical Focus
+Technical Focus:
 Time-Series Forecasting | Computer Vision | Deep Learning | Model Evaluation
 
 Contact
