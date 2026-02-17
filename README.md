@@ -1,28 +1,44 @@
-Hi, I'm Tripti Singh
+# Tripti Singh
 
-B.Tech Computer Science student focused on Machine Learning research, time-series forecasting, and computer vision.
+B.Tech Computer Science student with focus on Machine Learning research, time-series forecasting, and computer vision.
 
-Research Experience
-- Summer Research Intern at CSIR-CBRI (IIT Roorkee Campus)
-- Developed Hybrid CatBoost–SARIMAX framework for daily AQI forecasting
-- Research paper under review
+---
 
-Selected Projects
+## Research Experience
 
-NeuroVision – Dual-Stage Brain Tumor Detection
-- MobileNetV2 (binary classification) + EfficientNetB0 (multi-class classification)
-- Applied CLAHE preprocessing and data augmentation
-- Integrated Grad-CAM for explainability
-- Achieved ~93% accuracy on Kaggle MRI dataset
+**Summer Research Intern – CSIR-CBRI (IIT Roorkee Campus)**  
+- Developed a Hybrid CatBoost–SARIMAX framework for daily AQI forecasting in Indian metropolitan cities  
+- Conducted feature engineering and seasonal trend analysis  
+- Research manuscript currently under review  
 
-Livestock Breed Classification (SIH Internal – 3rd Rank)
-- Collected and manually annotated dataset
-- Designed and trained CNN model using TensorFlow
-- Achieved ~92% classification accuracy
+---
 
-Technical Focus:
-Time-Series Forecasting | Computer Vision | Deep Learning | Model Evaluation
+## Selected Projects
 
-Contact
-Email: triptisinghsonam6307@gmail.com
-LinkedIn: 
+### NeuroVision – Dual-Stage Brain Tumor Detection
+- Two-stage architecture: MobileNetV2 (binary detection) + EfficientNetB0 (multi-class classification)  
+- Applied preprocessing techniques and structured data augmentation  
+- Implemented Grad-CAM for interpretability  
+- Achieved strong classification performance on MRI dataset  
+
+### Livestock Breed Classification (SIH Internal Round – 3rd Rank)
+- Collected and manually annotated image dataset  
+- Designed and trained CNN-based classifier using TensorFlow  
+- Achieved high multi-class classification accuracy  
+
+---
+
+## Technical Focus
+
+Transfer Learning  
+Computer Vision  
+Time-Series Forecasting  
+Deep Learning  
+Model Evaluation & Interpretability  
+
+---
+
+## Contact
+
+Email: triptisinghsonam6307@gmail.com  
+LinkedIn: [Add your LinkedIn link here]
